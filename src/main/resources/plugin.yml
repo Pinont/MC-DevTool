@@ -1,0 +1,8 @@
+name: DevTools
+version: '1.0-SNAPSHOT'
+main: com.pinont.plugin.DevTools
+api-version: '1.21'
+prefix: PSC
+load: STARTUP
+authors: [ Pinont_ ]
+description: A plugin that make player scripting their own area using blocks
